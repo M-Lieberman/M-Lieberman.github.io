@@ -1,3 +1,5 @@
 # M-Lieberman.github.io
 
-URL: https://m-lieberman.github.io/BootstrapPortfolioProject/
+Pages:
+Developer Portfolio: https://m-lieberman.github.io/developer-portfolio/
+Bootstrap Tutorial: https://m-lieberman.github.io/BootstrapPortfolioProject/
